@@ -25,7 +25,6 @@ experience:
   - title: Visiting scholar 
     Institution: The University of Queensland 
     url: 'https://www.uq.edu.au'
-    company_logo: org-gc
     location: Queensland, Australia
     date_start: '2018-10'
     date_end: '2019-11'
@@ -37,7 +36,6 @@ experience:
   - title: Mechanical Engineer
     company: BYD Company Limited
     company_url: 'https://www.byd.com/'
-    company_logo: org-x
     location: Shenzhen, China
     date_start: '2014-07'
     date_end: '2015-08'
