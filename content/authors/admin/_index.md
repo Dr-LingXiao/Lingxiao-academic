@@ -6,21 +6,21 @@ title: Xiao Ling
 superuser: true
 
 # Role/position/tagline
-role: I am now a postdoctoral researcher at The University of Tokyo
+role: Postdoctoral researcher at The University of Tokyo
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The University of Tokyo
-<!--   url: https://www.stanford.edu/ -->
+  url: http://www.u-tokyo.ac.jp
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Image processing and Fashion recommendation.
 
-<!-- # Interests to show in About widget
+# Interests to show in About widget
 interests:
 - Artificial Intelligence
 - Fashion recommendation
-- Image processing -->
+- Image processing
 
 # Education to show in About widget
 education:
@@ -32,7 +32,7 @@ education:
     institution: Hefei University of Technology, P.R. China
     year: 2014
 
-<!-- # Social/Academic Networking
+# Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
@@ -42,7 +42,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Dr_lingxiao
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -52,7 +52,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
- -->
+
 <!-- # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
